@@ -1,2 +1,1 @@
-# projecta
-test
+# projectb's README
